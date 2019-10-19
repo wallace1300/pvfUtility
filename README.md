@@ -4,7 +4,7 @@
 [点击链接加入群聊【pvfUtility】](https://jq.qq.com/?_wv=1027&k=5gSQ5ks)
 
 QQ赞助
-[](zhanzhu.jpg)
+[](https://github.com/wallace1300/pvfUtility/blob/master/zhanzhu.jpg?raw=true)
 
 2018.4 更新内容：
 
