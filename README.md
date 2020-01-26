@@ -1,7 +1,7 @@
 # pvfUtility
 [下载最新版本](https://pan.baidu.com/s/1H3S5uTtzMkcUEkyRBOwUOg)
 
-[点击链接加入群聊【pvfUtility】](https://jq.qq.com/?_wv=1027&k=5gSQ5ks)
+[点击链接加入群聊【pvfUtility】](https://jq.qq.com/?_wv=1027&k=5gSQ5ks)加群获取2020测试版本
 
 QQ赞助
 ![](https://github.com/wallace1300/pvfUtility/blob/master/zhanzhu.jpg?raw=true)
